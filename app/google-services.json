@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21416455561",
+    "project_id": "leaflibrary-3651d",
+    "storage_bucket": "leaflibrary-3651d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21416455561:android:18825532e5e015431f8558",
+        "android_client_info": {
+          "package_name": "tk.harshsurani.leaflibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21416455561-kpst8kn1hlo2uhcdqc3gq0hqde78ducg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9KVhWPxFfl0FhDz12a-6iP5PfwWjbYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21416455561-kpst8kn1hlo2uhcdqc3gq0hqde78ducg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
